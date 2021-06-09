@@ -1,0 +1,18 @@
+﻿  .blue {
+    background-color: #499afa;
+  }
+  .red {
+	height: 300px;
+    background-color: #490000;
+  }
+  .content { 
+  float: left;  
+  }
+  .orange {
+    height: 80px;
+    background-color: #fab949;
+  }
+  .silver {
+	float: left;
+    background-color: silver;
+  }
